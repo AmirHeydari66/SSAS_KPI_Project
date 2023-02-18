@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SSAS_KPI_Project", "SSAS_KPI_Project.dwproj", "{2F113DF8-9653-4B0B-BEDE-7B919668B060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F113DF8-9653-4B0B-BEDE-7B919668B060}.Development|Default.ActiveCfg = Development
+		{2F113DF8-9653-4B0B-BEDE-7B919668B060}.Development|Default.Build.0 = Development
+		{2F113DF8-9653-4B0B-BEDE-7B919668B060}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E49F952-CEA6-4026-9533-55C47ABBFBAE}
+	EndGlobalSection
+EndGlobal
